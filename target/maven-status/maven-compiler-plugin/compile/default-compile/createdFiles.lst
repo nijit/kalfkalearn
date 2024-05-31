@@ -1,0 +1,5 @@
+com\nijit\kafka\service\KafkaProducerService.class
+com\nijit\test\controller\TestController.class
+com\nijit\test\TestApplication.class
+com\nijit\kafka\config\KafkaConfig.class
+com\nijit\kafka\service\KafkaConsumerListener.class
